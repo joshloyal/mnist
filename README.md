@@ -4,7 +4,7 @@ Implementation of a neural network benchmarked using Kaggle's Digit Recognition 
 
 Problem Description
 -------------------
-The goal in this competition is to take an image of a handwritten single digit, and determine what the digit is. The data taken for this competition were taken from the MNIST dataset. The MNIST ("Modified National Institute of Standards and Technology") dataset is a classic within the Machine Learning community that has been extensively studied. More detail about the dataset can be found at [here](http://yann.lecun.com/exdb/mnist/index.html).
+The goal in this competition is to take an image of a handwritten single digit, and determine what the digit is. The data taken for this competition were taken from the MNIST dataset. The MNIST ("Modified National Institute of Standards and Technology") dataset is a classic within the Machine Learning community that has been extensively studied. More detail about the dataset can be found [here](http://yann.lecun.com/exdb/mnist/index.html).
 
 The Algorithm
 -------------
