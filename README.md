@@ -1,6 +1,6 @@
 Digit Recognition
 =================
-Implementation of a neural network benchmarked using Kaggle's Digit Recognition competition.
+Implementation of a neural network tested using Kaggle's Digit Recognition competition.
 
 Problem Description
 -------------------
@@ -8,4 +8,4 @@ The goal in this competition is to take an image of a handwritten single digit, 
 
 The Algorithm
 -------------
-This model implements a fully vectorized multi-layer sigmoid feed-forward neural-network with L2 regularization using Numpy. The network is trained using stochastic gradient descent along with momentum. The images are standardized and then the first 100 principle components are fed into th network. 
+This model implements a fully vectorized multi-layer sigmoid feed-forward neural-network with L2 regularization using Numpy. The network is trained using stochastic gradient descent along with momentum. The images are standardized and then the first 100 principle components are fed into the network. 
