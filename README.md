@@ -1,6 +1,6 @@
-Digit Recognition
+Digit Recognizer
 =================
-Implementation of a neural network tested using Kaggle's Digit Recognition competition.
+Implementation of a neural network tested using Kaggle's Digit Recognizer competition.
 
 Problem Description
 -------------------
